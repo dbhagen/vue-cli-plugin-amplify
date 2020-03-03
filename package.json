@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/komushi/vue-cli-plugin-amplify.git"
+    "url": "git+https://github.com/dbhagen/vue-cli-plugin-amplify.git"
   },
   "keywords": [
     "vue",
@@ -21,30 +21,30 @@
     "amplify",
     "aws"
   ],
-  "author": "Lei Xu <komushi@gmail.com>",
+  "author": "Daniel B. Hagen <daniel.b.hagen@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/komushi/vue-cli-plugin-amplify/issues"
+    "url": "https://github.com/dbhagen/vue-cli-plugin-amplify/issues"
   },
-  "homepage": "https://github.com/komushi/vue-cli-plugin-amplify#readme",
+  "homepage": "https://github.com/dbhagen/vue-cli-plugin-amplify#readme",
   "dependencies": {
-    "js-search": "^1.4.2",
+    "js-search": "^1.4.3",
     "node-cmd": "^3.0.0"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-eslint": "^8.2.1",
-    "babel-preset-env": "^1.6.1",
-    "eslint": "^4.10.0",
-    "eslint-config-standard": "^10.2.1",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-node": "^6.0.0",
-    "eslint-plugin-promise": "^3.4.0",
-    "eslint-plugin-standard": "^3.0.1",
-    "eslint-plugin-vue": "^4.2.2"
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-vue": "^6.2.1"
   },
   "peerDependencies": {
-    "@vue/cli-shared-utils": "^3.0.0-beta.6",
-    "chalk": "^2.3.1"
+    "@vue/cli-shared-utils": "^4.2.3",
+    "chalk": "^3.0.0"
   }
 }
